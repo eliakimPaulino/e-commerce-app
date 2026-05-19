@@ -53,6 +53,7 @@ app.*.map.json
 
 # Flutter
 build/
+lib/utils/constants/api_constants.dart
 
 # Dart
 .dart_tool/
