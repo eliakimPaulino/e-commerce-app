@@ -4,7 +4,7 @@ A professional eCommerce mobile application built with Flutter and powered by Fi
 
 This project demonstrates modern mobile development practices, including authentication, cloud integration, local persistence, responsive UI, and clean application architecture.
 
-See the project here: https://flutter-ecommerce-app-eli-2026.web.app/
+Access the project here: https://flutter-ecommerce-app-eli-2026.web.app/
 
 ---
 
