@@ -1,3 +1,4 @@
+import 'package:e_commerce/features/authentication/screens/login/login.dart';
 import 'package:flutter/widgets.dart';
 import 'package:get/get.dart';
 
@@ -26,7 +27,7 @@ class OnboardingController extends GetxController {
         curve: Curves.easeIn,
       );
     } else if (currentPageIndex.value == 2) {
-      // Get.to(LoginScreen());
+      Get.to(LoginScreen());
     }
   }
 
